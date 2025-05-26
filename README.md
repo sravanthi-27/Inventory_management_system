@@ -112,3 +112,47 @@ If you'd like to contribute to this project, please feel free to fork the reposi
 ## License
 
 This project is licensed under the MIT License.
+
+## Screenshots
+
+Here are some screenshots showcasing the application's interface and features:
+
+## **login view** 
+
+The application starts with a secure login screen to ensure only authorized users can access the inventory system.
+
+![Screenshot 2025-05-26 205119](https://github.com/user-attachments/assets/aa302f2a-1146-4f68-b1eb-25cbe3f9a329)
+
+
+## ** Dashboard View**
+
+The main dashboard provides a quick overview of inventory statistics and stock levels.
+
+![image](https://github.com/user-attachments/assets/37b255fb-4985-4a7a-87aa-a2aa4f086e2e)
+
+
+## **Items Management**
+
+Manage your inventory items with options to add, edit, delete, and filter.
+
+![image](https://github.com/user-attachments/assets/3002d02c-72f6-416d-adc5-af7f9ac14684)
+
+
+## **Category Management**
+
+Organize your products into categories for better management.
+
+![image](https://github.com/user-attachments/assets/528d1986-5563-449d-8dd1-ea7df03e9ab4)
+
+
+## **Reports & Export**
+
+Generate various reports and export data to Excel or PDF.
+![image](https://github.com/user-attachments/assets/ba8c2ce2-a255-42ce-b5ee-d6eed4d26fcf)
+![image](https://github.com/user-attachments/assets/daf91417-fd38-403b-8d28-5e91e9503ee6)
+![image](https://github.com/user-attachments/assets/06d08995-f636-49d0-a405-15925d5c52b2)
+![image](https://github.com/user-attachments/assets/6ce9cd8b-91a6-4225-961e-86b50d7c0f0d)
+
+
+
+
